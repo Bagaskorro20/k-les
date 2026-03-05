@@ -1,10 +1,10 @@
-# 🎓 K-Tutor: Aplikasi Manajemen Les Privat
+# 🎓 K-Les: Aplikasi Manajemen Les Privat
 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Provider](https://img.shields.io/badge/Provider-State_Management-blue?style=for-the-badge)
 
-K-Tutor adalah aplikasi _mobile_ berbasis Flutter yang dirancang khusus untuk membantu guru les privat mengelola jadwal mengajar, data murid, dan merekap pendapatan bulanan secara efisien dan profesional. Dibangun dengan pendekatan **Clean Architecture** dan UI/UX yang memanjakan mata.
+K-Les adalah aplikasi _mobile_ berbasis Flutter yang dirancang khusus untuk membantu guru les privat mengelola jadwal mengajar, data murid, dan merekap pendapatan bulanan secara efisien dan profesional. Dibangun dengan pendekatan **Clean Architecture** dan UI/UX yang memanjakan mata.
 
 ---
 
