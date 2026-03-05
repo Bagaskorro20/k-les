@@ -54,5 +54,5 @@ Aplikasi ini dibangun dengan standar industri _Best Practice_ untuk skalabilitas
 1. Pastikan kamu sudah menginstal [Flutter](https://flutter.dev/docs/get-started/install) di komputermu.
 2. _Clone repository_ ini:
    ```bash
-   git clone [https://github.com/username-kamu/k_les.git](https://github.com/username-kamu/k_les.git)
+   git clone [https://github.com/Bagaskorro20/k_les.git](https://github.com/Bagaskorro20/k_les.git)
    ```
